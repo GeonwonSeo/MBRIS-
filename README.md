@@ -1,2 +1,2 @@
-# MBRIS-
+# MBRIS-DB
 MBRIS DB 정리
